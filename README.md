@@ -13,10 +13,13 @@ The goal of this project is to show understanding of:
 ---
 
 ## 📂 Project Structure
+
+```
 student-management/
-├── console-version/ # Core Java console application
-├── springboot-version/ # REST API using Spring Boot
+├── console-version/     # Core Java console application
+├── springboot-version/  # REST API using Spring Boot
 └── README.md
+```
 
 ---
 
