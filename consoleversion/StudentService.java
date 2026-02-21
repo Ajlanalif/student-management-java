@@ -1,5 +1,5 @@
+package consoleversion;
 import java.util.*;
-
 public class StudentService {
     private List<Student> students =new ArrayList<>();
     public void addStudent(Student student){
